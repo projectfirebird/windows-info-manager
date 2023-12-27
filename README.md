@@ -1,8 +1,8 @@
 # windows-info-manager
 # Python script that provides helpful information on a Windows running computer.
 
-Welcome to Info Manager for Windows - v1.0
-				 by projectfirebird
+Welcome to Info Manager for Windows - v1.0\n
+	by projectfirebird
 
 Main Menu:
 
