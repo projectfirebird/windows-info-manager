@@ -3,7 +3,7 @@
 
 Welcome to Info Manager for Windows - v1.0<br>
 
-	by projectfirebird
+by projectfirebird
 
 Main Menu:
 
