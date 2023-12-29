@@ -27,6 +27,6 @@ Pythod modules needed:
 
 ## Screenshots
 
-
+![test](https://github.com/projectfirebird/windows-info-manager/blob/v2.0/installed_apps.png?raw=true)
 
 ## I hope this script is useful and will work on updating it further. Cheers :)
