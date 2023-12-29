@@ -31,7 +31,7 @@ Pythod modules needed:
 
 ![test](https://github.com/projectfirebird/windows-info-manager/blob/v2.0/installed_apps.png?raw=true)
 
-1. Screenshot of "About"
+2. Screenshot of "About"
 
 ![test](https://github.com/projectfirebird/windows-info-manager/blob/v2.0/gui_about.png?raw=true)
 
