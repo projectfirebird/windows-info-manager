@@ -86,4 +86,12 @@ Pythod modules needed:
 
 ![test](https://github.com/projectfirebird/windows-info-manager/blob/v2.0/gui_about.png?raw=true)
 
-## I hope this script is useful and will work on updating it further. Cheers :)
+## v2.0 Updates
+
+1. Created Graphical User Interface (GUI);
+2. Name updated to "Info Manager GUI - v2.0";
+3. Modified the output of "List Installed Applications" to be displayed in a table, alphabetically ordered and better organized;
+4. "About" menu has been added to the GUI.
+   
+
+I hope this is useful and will work on updating it further. Cheers :)
