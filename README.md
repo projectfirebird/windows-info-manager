@@ -1,4 +1,4 @@
-# Windows Info Manager GUI - v2.0
+# Info Manager GUI - v2.0
 ## Description 
 
 Python coded GUI that provides helpful information on a Windows running computer.
