@@ -252,7 +252,7 @@ def display_disk_info():
 
     text.config(state=tk.NORMAL)
     text.delete(1.0, tk.END)
-    # Insert new content and center align
+
     text.insert(tk.END, disk_info_str)
     text.tag_configure("center", justify="center")
     text.tag_add("center", 1.0, tk.END)
@@ -271,7 +271,6 @@ def list_installed_applications():
     table_headers = ["Name", "Version", "Publisher"]
     table_data = [(software['name'], software['version'], software['publisher']) for software in software_list_sorted]
 
-    # Define the width of the first column
     first_column_width = 30
 
     text.config(state=tk.NORMAL)
@@ -279,7 +278,6 @@ def list_installed_applications():
 
     text.insert(tk.END, "Installed Windows Applications\n (ordered alphabetically)\n\n ")
 
-    # Wrap text in the first column
     wrapped_data = [(textwrap.fill(name, width=first_column_width), version, publisher) for name, version, publisher in
                     table_data]
 
