@@ -61,7 +61,7 @@ Python coded GUI that provides helpful information on a Windows running computer
 1. Obviously, this code will only work/run on a Windows computer.
 1. Python 3.x
 
-Pythod modules needed:
+Python modules needed:
 - cpuinfo
 - datetime
 - GPUtil
