@@ -25,5 +25,8 @@ Pythod modules needed:
 - winreg
 - wmi
 
+## Screenshots
+
+
 
 ## I hope this script is useful and will work on updating it further. Cheers :)
